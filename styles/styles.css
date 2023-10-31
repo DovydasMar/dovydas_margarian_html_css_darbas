@@ -517,7 +517,7 @@ footer {
   .bottom-right {
     display: block;
     color: var(--gray3);
-    margin-top: 120px ;
+    margin-top: 120px;
     margin-bottom: 71px;
     font-size: 20px;
     font-style: normal;
@@ -526,10 +526,11 @@ footer {
     text-align: right;
   }
   .bottom {
-    margin-top: 120px ;
+    margin-top: 120px;
     margin-bottom: 71px;
   }
   .right {
     display: flex;
     justify-content: space-between;
   }
+}
